@@ -1,11 +1,11 @@
 {
   "author": {
-    "name": "Igor Kvasnicka"
+    "name": "Tomás Godoi"
   },
   "name": "angular-picklist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "CC BY 4.0",
-  "homepage": "https://github.com/IgorKvasn/angular-picklist",
+  "homepage": "https://github.com/tsmgodoi/angular-picklist",
   "ignore": [
     "demo",
     "test"
