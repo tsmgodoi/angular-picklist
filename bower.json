@@ -3,7 +3,7 @@
     "name": "Tomás Godoi"
   },
   "name": "angular-picklist",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "CC BY 4.0",
   "homepage": "https://github.com/tsmgodoi/angular-picklist",
   "ignore": [
@@ -16,7 +16,7 @@
     './dist/angular-picklist.css',
     './dist/angular-picklist.min.css',
     './dist/angular-picklist.min.js.map'
-  ]
+  ],
   "dependencies": {
     "angular": ">1.2.10",
     "angular-mocks": ">1.2.10",
