@@ -16,10 +16,12 @@ angular.module('apicklist', [])
       restrict: 'E',
       transclude: true,
       replace: true,
-      templateUrl: '../template/picklist.html',
+      templateUrl: 'template/picklist.html',
       scope: {
         leftListRowsModel: '=leftListRows',
         rightListRowsModel: '=rightListRows',
+        
+        displayFn: '&displayFn',
 
         listWidth: '@listWidth',//optional, empty by default
         listHeight: '@listHeight',//optional, empty by default
