@@ -10,9 +10,16 @@
     "demo",
     "test"
   ],
+  main: [
+    './dist/angular-picklist.js',
+    './dist/angular-picklist.min.js',
+    './dist/angular-picklist.css',
+    './dist/angular-picklist.min.css',
+    './dist/angular-picklist.min.js.map'
+  ]
   "dependencies": {
-    "angular": "1.2.10",
-    "angular-mocks": "1.2.10",
+    "angular": ">1.2.10",
+    "angular-mocks": ">1.2.10",
     "bootstrap": "~3.3.1",
     "lodash": "~2.4.1"
   }
