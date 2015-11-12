@@ -20,8 +20,6 @@ angular.module('apicklist', [])
       scope: {
         leftListRowsModel: '=leftListRows',
         rightListRowsModel: '=rightListRows',
-        
-        displayFn: '&displayFn',
 
         listWidth: '@listWidth',//optional, empty by default
         listHeight: '@listHeight',//optional, empty by default
