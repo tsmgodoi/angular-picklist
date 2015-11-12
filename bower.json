@@ -10,12 +10,12 @@
     "demo",
     "test"
   ],
-  main: [
-    './dist/angular-picklist.js',
-    './dist/angular-picklist.min.js',
-    './dist/angular-picklist.css',
-    './dist/angular-picklist.min.css',
-    './dist/angular-picklist.min.js.map'
+  "main": [
+    "./dist/angular-picklist.js",
+    "./dist/angular-picklist.min.js",
+    "./dist/angular-picklist.css",
+    "./dist/angular-picklist.min.css",
+    "./dist/angular-picklist.min.js.map"
   ],
   "dependencies": {
     "angular": ">1.2.10",
